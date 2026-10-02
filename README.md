@@ -1,4 +1,4 @@
-# Caso fictício: Formigas Operárias x Formigueiro S.A.
+# Caso-Fromigas-Oper-rias-N1 — Formigas Operárias x Formigueiro S.A.
 
 ## Objetivo
 Este repositório demonstra um fluxo didático, rastreável e revisado por pessoa para responder a uma consulta trabalhista hipotética com apoio de fontes selecionadas manualmente (RAG manual). O caso é integralmente fictício. O material não é aconselhamento jurídico nem substitui análise profissional dos fatos e da legislação vigente.
@@ -49,7 +49,7 @@ meucasoficticio/
 Abra a pasta no VS Code. Leia este README e siga o fluxo acima. As fontes são links para textos oficiais; confira a versão vigente antes de qualquer uso fora da atividade. O histórico Git registra a organização do projeto e o fechamento do fluxo.
 
 ## Repositório
-URL pública: **pendente de publicação pelo titular da conta**.
+URL pública: https://github.com/M0vero/Caso-Fromigas-Oper-rias-N1
 
 ## Proveniência e data
 O relato bruto foi fornecido para esta atividade. As fontes oficiais foram consultadas em 02/10/2026. A versão sanitizada e as evidências são artefatos didáticos produzidos para a parte 2 da atividade.
